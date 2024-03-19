@@ -1,0 +1,19 @@
+/* Color */
+.blog-style h4,.blog-style,
+.hero-text h1,.top-bar ul li , .top-bar,.team-text h4{
+   
+    color: #000000;
+
+}
+/* Background Color */
+.preloader,
+.accordion-item.active a.heading,.blog-style .date,#progress-value,
+.clients-rate,.btn,.quotation button.owl-dot.active,.pricing-plan-style ul li:before,
+.pricing-plan-style a.btn:after {
+
+    background-color:#696969;
+
+}
+.pricing-plan-style a.btn:hover {
+    border-color: #696969;
+}
